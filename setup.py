@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="persistent_cache",
-    version="0.0.1",
+    version="0.0.2",
     author="Luis Cruz",
     author_email="luismirandacruz@gmail.com",
     description="Function cache that uses a JSON file for persistency.",
